@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Team-Pro-Manager/static/css/main.25aa6262.chunk.css",
+    "main.js": "/Team-Pro-Manager/static/js/main.cd8fc735.chunk.js",
+    "main.js.map": "/Team-Pro-Manager/static/js/main.cd8fc735.chunk.js.map",
+    "runtime-main.js": "/Team-Pro-Manager/static/js/runtime-main.99cc14ac.js",
+    "runtime-main.js.map": "/Team-Pro-Manager/static/js/runtime-main.99cc14ac.js.map",
+    "static/css/2.4819d237.chunk.css": "/Team-Pro-Manager/static/css/2.4819d237.chunk.css",
+    "static/js/2.c8f8abe8.chunk.js": "/Team-Pro-Manager/static/js/2.c8f8abe8.chunk.js",
+    "static/js/2.c8f8abe8.chunk.js.map": "/Team-Pro-Manager/static/js/2.c8f8abe8.chunk.js.map",
+    "index.html": "/Team-Pro-Manager/index.html",
+    "precache-manifest.e46200c2c2a07558c15a7f680af5bbf2.js": "/Team-Pro-Manager/precache-manifest.e46200c2c2a07558c15a7f680af5bbf2.js",
+    "service-worker.js": "/Team-Pro-Manager/service-worker.js",
+    "static/css/2.4819d237.chunk.css.map": "/Team-Pro-Manager/static/css/2.4819d237.chunk.css.map",
+    "static/css/main.25aa6262.chunk.css.map": "/Team-Pro-Manager/static/css/main.25aa6262.chunk.css.map",
+    "static/js/2.c8f8abe8.chunk.js.LICENSE.txt": "/Team-Pro-Manager/static/js/2.c8f8abe8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99cc14ac.js",
+    "static/css/2.4819d237.chunk.css",
+    "static/js/2.c8f8abe8.chunk.js",
+    "static/css/main.25aa6262.chunk.css",
+    "static/js/main.cd8fc735.chunk.js"
+  ]
+}
